@@ -1,6 +1,6 @@
 import { useState } from "react"
-import BlogList from "./components/BlogList"
 import Navbar from "./components/Navbar"
+import BlogList from "./components/blog/BlogList"
 
 const App = () => {
   const [blogs, setBlogs] = useState([
