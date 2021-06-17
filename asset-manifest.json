@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/micro-blog/static/css/main.e2f47c87.chunk.css",
+    "main.js": "/micro-blog/static/js/main.8ac95ec9.chunk.js",
+    "main.js.map": "/micro-blog/static/js/main.8ac95ec9.chunk.js.map",
+    "runtime-main.js": "/micro-blog/static/js/runtime-main.89a1cbb5.js",
+    "runtime-main.js.map": "/micro-blog/static/js/runtime-main.89a1cbb5.js.map",
+    "static/js/2.43cf1dd3.chunk.js": "/micro-blog/static/js/2.43cf1dd3.chunk.js",
+    "static/js/2.43cf1dd3.chunk.js.map": "/micro-blog/static/js/2.43cf1dd3.chunk.js.map",
+    "static/js/3.e4e7096d.chunk.js": "/micro-blog/static/js/3.e4e7096d.chunk.js",
+    "static/js/3.e4e7096d.chunk.js.map": "/micro-blog/static/js/3.e4e7096d.chunk.js.map",
+    "index.html": "/micro-blog/index.html",
+    "static/css/main.e2f47c87.chunk.css.map": "/micro-blog/static/css/main.e2f47c87.chunk.css.map",
+    "static/js/2.43cf1dd3.chunk.js.LICENSE.txt": "/micro-blog/static/js/2.43cf1dd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89a1cbb5.js",
+    "static/js/2.43cf1dd3.chunk.js",
+    "static/css/main.e2f47c87.chunk.css",
+    "static/js/main.8ac95ec9.chunk.js"
+  ]
+}
